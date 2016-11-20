@@ -1,0 +1,22 @@
+body {
+    background-color: #F0F0F0;
+    font-family: 'Liberation Sans', Arial, sans-serif;
+    overflow: hidden;
+    margin: 0;
+}
+
+#images { 
+    background: #bcd; 
+    width: auto; 
+    height: 100vh; 
+    overflow-x: hidden; 
+    text-align: center; 
+    list-style: none;
+    border: 1vh; 
+    padding: 0;
+}
+
+img{
+    width: 100%;
+}
+
